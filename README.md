@@ -54,6 +54,6 @@ In your GoogleSitemaps module, in _config/googlesitemaps.yml:
 
 ## Maintainers ##
 
- * Martine Bloem (Martimiz) <martimiz@gmail.com>
+ * Martine Bloem (Martimiz)
 
 Please report any bugs or issues you may find
