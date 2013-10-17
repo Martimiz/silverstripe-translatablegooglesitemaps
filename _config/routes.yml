@@ -1,0 +1,9 @@
+---
+Name: translatablegooglesitemaproutes
+After: googlesitemaproutes
+Only: 
+  moduleexists: 'googlesitemaps'
+---
+Director:
+  rules:
+    'sitemap.xml': 'TranslatableGoogleSitemapController'
