@@ -1,5 +1,5 @@
 {
-	"name": "Martimiz/silverstripe-translatablegooglesitemaps",
+	"name": "martimiz/silverstripe-translatablegooglesitemaps",
 	"description": "Extends GoogleSitemaps to allow for multilingual sitemaps according to Googles requirements. Supports translatable and silverstripe-languagePrefix. See: https://support.google.com/webmasters/answer/2620865?hl=en&ref_topic=2370587",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "googlesitemap", "sitemap", "cms", "multilingual", "translatable"],
