@@ -20,5 +20,8 @@
 	"support": 
 	{
 		"issues": "https://github.com/Martimiz/silverstripe-translatablegooglesitemaps/issues"
-	}
+	},
+	"extra": {
+                "installer-name": "translatablegooglesitemaps"
+        }
 }
